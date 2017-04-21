@@ -1,0 +1,40 @@
+<svg height="590" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="590" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">26 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ nlp-toolkit@0.2.6 </tspan>
+<tspan x="10" y="90">  ├── bayes_fixed@0.0.6 </tspan>
+<tspan x="10" y="106">  ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="122">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="138">  │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="154">  ├─┬ event-stream@3.3.4 </tspan>
+<tspan x="10" y="170">  │ ├── duplexer@0.1.1 </tspan>
+<tspan x="10" y="186">  │ ├── from@0.1.7 </tspan>
+<tspan x="10" y="202">  │ ├── map-stream@0.1.0 </tspan>
+<tspan x="10" y="218">  │ ├── pause-stream@0.0.11 </tspan>
+<tspan x="10" y="234">  │ ├── split@0.3.3 </tspan>
+<tspan x="10" y="250">  │ ├── stream-combiner@0.0.4 </tspan>
+<tspan x="10" y="266">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="282">  ├── lodash@4.17.4 </tspan>
+<tspan x="10" y="298">  ├─┬ mathjs@3.12.0 </tspan>
+<tspan x="10" y="314">  │ ├── complex.js@2.0.1 </tspan>
+<tspan x="10" y="330">  │ ├── decimal.js@7.1.1 </tspan>
+<tspan x="10" y="346">  │ ├── fraction.js@4.0.0 </tspan>
+<tspan x="10" y="362">  │ ├── seed-random@2.2.0 </tspan>
+<tspan x="10" y="378">  │ ├── tiny-emitter@1.0.2 </tspan>
+<tspan x="10" y="394">  │ └── typed-function@0.10.5 </tspan>
+<tspan x="10" y="410">  ├── snowball-stemmer.jsx@0.2.3 </tspan>
+<tspan x="10" y="426">  └─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="442">    ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="458">    │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="474">    │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="490">    │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="506">    │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="522">    │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="538">    │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="554">    │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="570">    └── xtend@4.0.1</tspan>
+</text>
+</svg>

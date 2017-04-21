@@ -1,0 +1,58 @@
+<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="878" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 15:45:35 +0000   768229 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:45:35 +0000     3391 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:45:35 +0000      756 bytes  examples/bayes_cross_validation_from_file.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:45:35 +0000      750 bytes  examples/dynamic_language.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:45:35 +0000     1359 bytes  examples/no_streaming_context.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:45:35 +0000       46 bytes  examples/texts/multilanguage.txt</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:45:35 +0000   684767 bytes  examples/texts/pride_prejudice.txt</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 15:45:35 +0000      196 bytes  examples/texts/sentiment.txt</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 15:45:35 +0000      555 bytes  examples/tokenize_stem_freqDist.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 15:45:35 +0000       34 bytes  index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 15:45:35 +0000      902 bytes  lib/calculate/accuracy.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 15:45:35 +0000     1561 bytes  lib/calculate/derivation.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 15:45:35 +0000     1651 bytes  lib/calculate/features.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 15:45:35 +0000      205 bytes  lib/calculate/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 15:45:35 +0000     1245 bytes  lib/calculate/texts.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 15:45:35 +0000      939 bytes  lib/classifiers/bayes.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 15:45:35 +0000       45 bytes  lib/classifiers/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 15:45:35 +0000     2178 bytes  lib/components/freqDist.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 15:45:35 +0000     1781 bytes  lib/components/idf.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 15:45:35 +0000       93 bytes  lib/components/index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 15:45:35 +0000     1047 bytes  lib/crossValidation.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 15:45:35 +0000     1368 bytes  lib/divide.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 15:45:35 +0000       83 bytes  lib/filters/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 15:45:35 +0000      743 bytes  lib/filters/max.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 15:45:35 +0000      808 bytes  lib/filters/min.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 15:45:35 +0000     1093 bytes  lib/frequency.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 15:45:35 +0000      904 bytes  lib/idf.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 15:45:35 +0000      931 bytes  lib/index.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 15:45:35 +0000      431 bytes  lib/prepare.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 15:45:35 +0000      405 bytes  lib/serialize.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 15:45:35 +0000     3947 bytes  lib/stemmer.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 15:45:35 +0000     3877 bytes  lib/stopwords.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 15:45:35 +0000      324 bytes  lib/stopwords/da.txt</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 15:45:35 +0000     3798 bytes  lib/stopwords/de.txt</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 15:45:35 +0000     3588 bytes  lib/stopwords/en.txt</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 15:45:35 +0000     2216 bytes  lib/stopwords/es.txt</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 15:45:35 +0000     5715 bytes  lib/stopwords/fi.txt</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 15:45:35 +0000     2854 bytes  lib/stopwords/fr.txt</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 15:45:35 +0000     6659 bytes  lib/stopwords/hu.txt</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 15:45:35 +0000     2403 bytes  lib/stopwords/it.txt</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 15:45:35 +0000     1701 bytes  lib/stopwords/nl.txt</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 15:45:35 +0000      592 bytes  lib/stopwords/no.txt</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 15:45:35 +0000     2359 bytes  lib/stopwords/pt.txt</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 15:45:35 +0000     1635 bytes  lib/stopwords/ro.txt</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 15:45:35 +0000     4538 bytes  lib/stopwords/ru.txt</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 15:45:35 +0000     2487 bytes  lib/stopwords/se.txt</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 15:45:35 +0000     1360 bytes  lib/stopwords/tr.txt</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 15:45:35 +0000     2369 bytes  lib/tokenizer.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 15:45:35 +0000      920 bytes  lib/validateClassifier.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 15:45:35 +0000     1237 bytes  package.json</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 15:45:35 +0000     2184 bytes  test/components.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 15:45:35 +0000      917 bytes  test/sentences.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 15:45:35 +0000      282 bytes  test/texts.txt</tspan>
+</text>
+</svg>
